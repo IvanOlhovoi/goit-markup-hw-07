@@ -23,6 +23,7 @@
 }
 .item{
     display: block;
+    font-family: var(--color-primary-text);
     font-weight:  500;
     line-height: 1.15;
     text-align: left;
@@ -40,6 +41,7 @@
 .item-one{
     display: flex;
     align-items: center;
+    font-family: var(--color-primary-text);
     font-weight:  500;
     line-height: 1.15;
     text-decoration: none;
@@ -59,6 +61,7 @@
 .item-one-info{
     display: flex;
     align-items: center;
+    font-family: var(--color-primary-text);
     font-weight:  500;
     line-height: 1.15;
     text-decoration: none;

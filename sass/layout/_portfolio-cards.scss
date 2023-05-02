@@ -28,6 +28,7 @@
     padding: 20px 24px 20px 24px;
 }
 .portfolio-basic-anchors{
+    font-family: var(--font-family-primary);
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -37,6 +38,7 @@
     margin-bottom: 4px;
 }
 .portfolio-word-meaning{
+    font-family: var(--font-family-primary);
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
@@ -54,7 +56,7 @@
     align-items: center;
     justify-content: center;
     text-align: left;
-    font-family: "Roboto";
+    font-family: var(--font-family-primary);
     font-style: normal;
     font-weight: 400;
     font-size: 18px;

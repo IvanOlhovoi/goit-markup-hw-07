@@ -1,6 +1,7 @@
 .modal-title {
     margin-bottom: 12px;
     text-align: center;
+    font-family: var(--font-family-primary);
     font-weight: 700;
     font-size: 20px;
     line-height: 1.15;
@@ -17,6 +18,7 @@
 }
 .modal-contacts {
     margin-bottom: 4px;
+    font-family: var(--font-family-primary);
     font-weight: 400;
     font-size: 12px;
     line-height: 1.16;
@@ -112,6 +114,7 @@
 }
 .modal-comment {
     margin-bottom: 4px;
+    font-family: var(--font-family-primary);
     font-weight: 400;
     font-size: 12px;
     line-height: 1.16;
@@ -156,6 +159,7 @@
     flex-direction: column;
 }
 .modal-link-accept{
+    font-family: var(--font-family-primary);
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -225,6 +229,7 @@
     }
 }
 .modal-link-terms {
+    font-family: var(--font-family-primary);
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -237,7 +242,7 @@
     justify-content: center;
 }
 .modal-btn-submit {
-    font-family: 'Roboto';
+    font-family: var(--font-family-primary);
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
